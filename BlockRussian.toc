@@ -1,0 +1,7 @@
+## Interface: 11200
+## Version: 1.0
+## Title: BlockCyrillic
+## Notes: Blocks Cyrillic Chat Messages
+## Author: Oleksandr Cherniavskyi
+
+BlockCyrillic.lua
